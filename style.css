@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid gray;
+    margin: 20px auto;
+}
+
+thead {
+    background: #eee;
+}
+
+th,
+td {
+    border: 1px solid gray;
+    padding: 8px;
+    text-align: center;
+}
+
+col {
+    background-color: #eee;
+}
+
+h1 {
+    text-align: center;
+}
